@@ -2,6 +2,7 @@
   "name": "construction",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://mwisenezapatrick.github.io/construction-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
